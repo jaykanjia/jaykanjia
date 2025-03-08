@@ -2,7 +2,7 @@
 
 ### I'm Jay Kanjia - Full Stack Developer
 
-- 🔭 I’m currently working as **Associate Full Stack Developer**
+- 🔭 I’m currently working as **Full Stack Developer**
 - 🌱 I’m currently learning **Web and Mobile application Development**
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help to improve my skills
@@ -16,8 +16,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/JayKanjia#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/JayKanjia#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jaykumar-kanjia/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jaykumar-kanjia/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://in.linkedin.com/in/jaykumar-kanjia/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://in.linkedin.com/in/jaykumar-kanjia/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/kanjia_jay_2182#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/kanjia_jay_2182#gh-dark-mode-only)
